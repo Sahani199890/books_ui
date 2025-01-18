@@ -1,0 +1,14 @@
+.corousal-parent {
+  height: 50vh;
+  width: 90vw;
+}
+.carousel-control-prev,
+.carousel-control-next,
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  width: 30px;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-color: #000 !important;
+}

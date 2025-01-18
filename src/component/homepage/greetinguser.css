@@ -1,0 +1,10 @@
+.container-greeting {
+  background-image: url("../../images/home-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+}
+.user-name-head {
+  color: #fff;
+}
